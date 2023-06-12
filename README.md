@@ -1,5 +1,6 @@
 # SeeThruFinger
 See and Grasp Anything with a Soft Touch
+![fig-PaperOverview](./tools/fig-PaperOverview.png)
 
 We present SeeThruFinger, a soft robotic finger with an in-finger vision for multi-modal perception, including visual perception and tactile sensing, for geometrically adaptive and real-time reactive grasping. 
 
